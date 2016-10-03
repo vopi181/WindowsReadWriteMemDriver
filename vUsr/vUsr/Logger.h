@@ -10,7 +10,7 @@
 #include <vector>
 #include <iostream>
 #include <ctime>
-
+#include "stdafx.h"
 using namespace std;
 
 typedef void( *inputHandler )( char* input );
